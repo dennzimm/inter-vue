@@ -1,0 +1,42 @@
+[
+  {
+    "year": "2012",
+    "population": "160",
+    "entry_id": "1"
+  },
+  {
+    "year": "2013",
+    "population": "173",
+    "entry_id": "2"
+  },
+  {
+    "year": "2014",
+    "population": "195",
+    "entry_id": "3"
+  },
+  {
+    "year": "2015",
+    "population": "223",
+    "entry_id": "4"
+  },
+  {
+    "year": "2016",
+    "population": "203",
+    "entry_id": "5"
+  },
+  {
+    "year": "2017",
+    "population": "256",
+    "entry_id": "6"
+  },
+  {
+    "year": "2018",
+    "population": "298",
+    "entry_id": "7"
+  },
+  {
+    "year": "2019",
+    "population": "395",
+    "entry_id": "8"
+  }
+]
